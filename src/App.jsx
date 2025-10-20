@@ -455,7 +455,7 @@ function Gallery() {
             key={i}
             src={src}
             alt={`Detail ${i + 1}`}
-            className="rounded-2xl w-full h-72 object-cover bg-[#e2e8f0] scale-[0.9]"
+            className="rounded-2xl w-full h-72 object-cover bg-[#e2e8f0] scale-[0.8]"
             loading="lazy"
           />
         ))}
